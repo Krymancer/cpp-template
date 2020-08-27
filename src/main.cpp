@@ -1,6 +1,7 @@
 #include <iostream>
+#include "main.hpp"
 
 int main(int argc, char** argv) {
-    std::cout << "PASS" << std::endl;
+    std::cout << message << std::endl;
     return 0;
 }
