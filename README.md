@@ -20,6 +20,6 @@ Only run the project
 ## Hint
 if you have not instaled you can istal degit and use:
     
-    degit https://github.com/Krymancer/cpp-template <projectname>
+    degit krymancer/cpp-template <projectname>
 
-this will download all the files in this repositories and NOT create a .git folder or a git repository, perfect to start a fresh project
+this will download all the files in this repositories and NOT create a .git folder or a git repository, perfect to start a fresh project    
