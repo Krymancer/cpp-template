@@ -16,3 +16,10 @@ Build and run the project
 Only run the project 
 
     make run
+
+## Hint
+if you have not instaled you can istal degit and use:
+    
+    degit https://github.com/Krymancer/cpp-template <projectname>
+
+this will download all the files in this repositories and NOT create a .git folder or a git repository, perfect to start a fresh project
