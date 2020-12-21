@@ -1,7 +1,7 @@
-#include <iostream>
 #include "main.hpp"
+#include <iostream>
 
 int main(int argc, char** argv) {
-    std::cout << message << std::endl;
-    return 0;
+  std::cout << message << std::endl;
+  return 0;
 }
