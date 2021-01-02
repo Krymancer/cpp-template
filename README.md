@@ -18,7 +18,7 @@ Only run the project
     make run
 
 ## Hint
-If you have installed, you can use (degit)[https://github.com/Rich-Harris/degit] and setup this a project like this
+If you have installed, you can use [degit](https://github.com/Rich-Harris/degit) and setup this a project like this
     
     degit krymancer/cpp-template <projectname>
 
